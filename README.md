@@ -32,7 +32,7 @@ The attendance data was provided in the form of an Excel file. The data underwen
 1. **Download Power BI Desktop**: If you haven't already, download and install Power BI Desktop(https://www.microsoft.com/en-us/download/details.aspx?id=58494).
 2. **Clone or Download this Repository**:  Clone this repository to your local machine using Git or download it as a ZIP file.
 3. **Open the Power BI Project**: Open the .pbix file using Power BI Desktop. This file contains the pre-configured dashboard and data connections.
-4. **Explore the Dashboard**:  Once the data is loaded, explore the interactive dashboard. Navigate through the different visualizations, filters, and slicers to gain insights into attendance patterns and related metrics.
+4. **Explore the Dashboard**:  Once the data is loaded, explore the interactive dashboard(https://app.powerbi.com/view?r=eyJrIjoiMDczMjY2ZjEtYTNmOS00OWI0LWE0YjctZTc2MTQyOThkZmQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9). Navigate through the different visualizations, filters, and slicers to gain insights into attendance patterns and related metrics.
    
 
 **Project Outcome**
